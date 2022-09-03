@@ -57,8 +57,8 @@ This project is at a VERY early stage, and as such things might not work and WIL
 	:target: https://github.com/domdfcoding/py2latex/actions?query=workflow%3A%22mypy%22
 	:alt: mypy status
 
-.. |requires| image:: https://dependency-dash.herokuapp.com/github/domdfcoding/py2latex/badge.svg
-	:target: https://dependency-dash.herokuapp.com/github/domdfcoding/py2latex/
+.. |requires| image:: https://dependency-dash.repo-helper.uk/github/domdfcoding/py2latex/badge.svg
+	:target: https://dependency-dash.repo-helper.uk/github/domdfcoding/py2latex/
 	:alt: Requirements Status
 
 .. |codefactor| image:: https://img.shields.io/codefactor/grade/github/domdfcoding/py2latex?logo=codefactor

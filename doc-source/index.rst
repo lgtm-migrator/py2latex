@@ -58,8 +58,8 @@ py2LaTeX
 		:workflow: mypy
 		:alt: mypy status
 
-	.. |requires| image:: https://dependency-dash.herokuapp.com/github/domdfcoding/py2latex/badge.svg
-		:target: https://dependency-dash.herokuapp.com/github/domdfcoding/py2latex/
+	.. |requires| image:: https://dependency-dash.repo-helper.uk/github/domdfcoding/py2latex/badge.svg
+		:target: https://dependency-dash.repo-helper.uk/github/domdfcoding/py2latex/
 		:alt: Requirements Status
 
 	.. |codefactor| codefactor-shield::
